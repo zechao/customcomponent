@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package customcomponent;
-//Test  modified
+//Test  modified wtf
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
